@@ -1,0 +1,11 @@
+# Runtime data (normally stored in %LOCALAPPDATA%, but never commit if copied here)
+*.log
+*.log.old
+volume-memory.json
+*.tmp
+
+# Editor / OS noise
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
